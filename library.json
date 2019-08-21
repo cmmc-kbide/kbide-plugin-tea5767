@@ -1,0 +1,16 @@
+{
+  "name" : "kbide-plugin-tea5767",
+  "title": "tea5767",
+  "keywords": "tea5767, esp32, esp8266, arduino",
+  "description": "Plugin tea5767 for KB-IDE",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-tea5767/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-tea5767/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
